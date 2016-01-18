@@ -1,0 +1,28 @@
+name: This Is A Website
+favicon: null
+layout_spectrum: 0.9588851188309491
+typography_spectrum: 0.5925201731733978
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2763728571590036
+  lightness: 0.22283445461653173
+  saturation: 0.7417819665279239
+  rhythmicContrast: 0.5260731666348875
+purpose: []
