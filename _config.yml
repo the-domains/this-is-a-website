@@ -1,6 +1,6 @@
 name: This Is A Website
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.56051
 typography_spectrum: 0.5925201731733978
 title: THIS IS THE WEBSITE TITLE
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#020202'
-    - '#d0e0ed'
-    - '#443123'
-    - '#dbb48b'
-    - '#ac733c'
+    - '#ffffff'
+    - '#221f64'
+    - '#fe95ac'
+    - '#dd401d'
+    - '#3c9507'
   brandStrength: 0
   lightness: 1
   saturation: 0
