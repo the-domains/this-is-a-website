@@ -4,8 +4,22 @@
         <description><![CDATA[THIS IS THE WEBSITE TITLE]]></description>
         <link>https://thegrid.ai/this-is-a-website/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 20:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 20:43:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/this-is-a-website/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The importance of user reviews for local SEO]]></title>
+            <description><![CDATA[<article><h1>The importance of user reviews for local SEO</h1><p>They're also vital for local businesses, whether or not they sell online, thanks to their sheer prominence in local search results. Just look at this mobile search for restaurants in Chicago. The best organic listings are taken by the restaurants with good reviews: After this the next organic listings are mainly from review sites - Yelp, TripAdvisor, Time Out, Zagat, and so on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/346290b199214df00b99260b5338fe273325a419.jpg"></article>]]></description>
+            <link>https://searchenginewatch.com/sew/how-to/2436136/the-importance-of-user-reviews-for-local-seo</link>
+            <guid isPermaLink="false">64a199d2-f9a3-496e-abc1-1b21d722fb01</guid>
+            <pubDate>Mon, 18 Jan 2016 20:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five of the most interesting SEM news stories of the week]]></title>
+            <description><![CDATA[<article><h1>Five of the most interesting SEM news stories of the week</h1><p>Welcome to our weekly round-up of all the latest news and research from around the world of search marketing and beyond. This week: Pandas, Periscopes and Paid search. As our own Chris Lake reported this week, there has been a new roll-out of Panda, and "it's a biggie."</p></article>]]></description>
+            <link>https://searchenginewatch.com/sew/news/2442064/five-of-the-most-interesting-sem-news-stories-of-the-week</link>
+            <guid isPermaLink="false">37923831-1880-47a5-b8cb-189640634883</guid>
+            <pubDate>Mon, 18 Jan 2016 20:42:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[YouTube Ads Leaderboard: December 2015]]></title>
             <description><![CDATA[<article><h1>YouTube Ads Leaderboard: December 2015</h1><p>This month's Ads Leaderboard shows the most popular videos that people chose in December. In this edition, "Clash of Clans 360: Experience a Virtual Reality Raid" takes the top spot.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df31e11af8054a957ce0e44f6b7ac5c6843aace6.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.usatoday.com/story/life/nation-now/2016/01/13/avery-files-motion-release-making-murderer/78732836/</link>
             <guid isPermaLink="false">869cd028-dacb-4423-aecf-a16c8a397339</guid>
             <pubDate>Mon, 18 Jan 2016 20:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is an example of a header1 tag.]]></title>
-            <description><![CDATA[<article><h1>This is an example of a header1 tag.</h1><h2>Then I'm going to put some more text right here as an H2 tag.</h2><p>Paragraph text is next.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c5424244dee7fc64e3de595d9e0ef42c9435486.jpg"></article>]]></description>
-            <link>https://thegrid.ai/this-is-a-website/this-is-an-example-of-a-header1-tag/index.html</link>
-            <guid isPermaLink="false">8158c393-df95-467a-97fd-5206ba1fa702</guid>
-            <pubDate>Mon, 18 Jan 2016 20:16:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More posts of stuff using an H1 tag.]]></title>
-            <description><![CDATA[<article><h1>More posts of stuff using an H1 tag.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6687d5e61cea05ffa2e87ca275a8b2eeebb411b5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/this-is-a-website/more-posts-of-stuff-using-an-h1-tag/index.html</link>
-            <guid isPermaLink="false">caae2dfa-20a8-4e58-a611-a965bb47bf66</guid>
-            <pubDate>Mon, 18 Jan 2016 20:15:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
