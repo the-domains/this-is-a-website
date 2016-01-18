@@ -2,6 +2,7 @@ name: This Is A Website
 favicon: null
 layout_spectrum: 0.9588851188309491
 typography_spectrum: 0.5925201731733978
+title: THIS IS THE WEBSITE TITLE
 cta:
   domain: null
   bucket: null
