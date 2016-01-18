@@ -4,15 +4,8 @@
         <description><![CDATA[THIS IS THE WEBSITE TITLE]]></description>
         <link>https://thegrid.ai/this-is-a-website/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 20:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 20:49:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/this-is-a-website/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8e5f5f3-677f-4b87-96ed-018dbf978316.jpg">]]></description>
-            <link>https://thegrid.ai/this-is-a-website/840b18e2-e988-4b3d-a4c0-877927e7c875/index.html</link>
-            <guid isPermaLink="false">840b18e2-e988-4b3d-a4c0-877927e7c875</guid>
-            <pubDate>Mon, 18 Jan 2016 20:50:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Global Tensions Threaten to Upstage World Economic Forum in Davos]]></title>
             <description><![CDATA[<article><h1>Global Tensions Threaten to Upstage World Economic Forum in Davos</h1><p>PARIS - The declared mission of the World Economic Forum, which begins on Wednesday, is "improving the state of the world." But the perennial question is whether sequestering a few thousand of the global elite in the Alpine ski resort of Davos, Switzerland, can really achieve that lofty goal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0843bb302ce5ff0cffc5c3798147d6daa05dd110.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>YouTube Ads Leaderboard: December 2015</h1><p>This month's Ads Leaderboard shows the most popular videos that people chose in December. In this edition, "Clash of Clans 360: Experience a Virtual Reality Raid" takes the top spot.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d557092949631cb98523c60339953984c03026c.jpg"></article>]]></description>
             <link>https://www.thinkwithgoogle.com/platforms/video/leaderboards/youtube-leaderboard-dec-2015.html</link>
             <guid isPermaLink="false">95529683-b58f-42a0-bc2b-ee9e1583e3f9</guid>
+            <pubDate>Mon, 18 Jan 2016 20:42:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Muting the Global Dialogue in Davos]]></title>
+            <description><![CDATA[<article><h1>Muting the Global Dialogue in Davos</h1><p>The invitation was sent. And then, two weeks later, revoked. The World Economic Forum, which on Wednesday begins its annual meeting in Davos, Switzerland, brings together political and business leaders to discuss the world's most pressing problems. In years past, Vladimir V. Putin has attended. So has Bill Gates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6adde3c667e2d27c55c4c581b2c75a7734d5ec8.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/01/19/business/dealbook/muting-the-global-dialogue-in-davos.html?_r=0</link>
+            <guid isPermaLink="false">8dd3c734-bd2b-4f43-94fb-4677bde57939</guid>
             <pubDate>Mon, 18 Jan 2016 20:42:56 GMT</pubDate>
         </item>
     </channel>
