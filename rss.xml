@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[This Is A Website]]></title>
-        <description><![CDATA[This Is A Website]]></description>
+        <title><![CDATA[THIS IS THE WEBSITE TITLE]]></title>
+        <description><![CDATA[THIS IS THE WEBSITE TITLE]]></description>
         <link>https://thegrid.ai/this-is-a-website/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 20:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 20:37:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/this-is-a-website/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Making a Murderer]]></title>
+            <description><![CDATA[<article><h1>Making a Murderer</h1><p>All of the content related to the 'Making a Murderer' documentary and the Steven Avery case.</p><img src="http://www.gannett-cdn.com/-mm-/b3e0d4657f0b0b69ae455ea607e4b7841dbc6deb/r=x408&c=720x405/http/videos.usatoday.net/Brightcove2/29906170001/2016/01/29906170001_4702475316001_thumb-newslook926519.jpg"></article>]]></description>
+            <link>http://www.usatoday.com/topic/290ef6c6-a047-4dda-a9a9-977a6bc3f7e9/Making-A-Murder/</link>
+            <guid isPermaLink="false">6ec6b13a-7f71-4830-8a18-57a38b01fc7a</guid>
+            <pubDate>Mon, 18 Jan 2016 20:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steven Avery of 'Making a Murderer' files motions for release]]></title>
+            <description><![CDATA[<article><h1>Steven Avery of 'Making a Murderer' files motions for release</h1><p>APPLETON, Wis. - Steven Avery, who was convicted in the 2005 homicide of photographer Teresa Halbach, filed motions Monday for release on bond. The documents were filed with the Wisconsin Court of Appeals and claim that because Avery's property was illegally searched, evidence gathered at the property cannot be used against him.</p><img src="http://www.gannett-cdn.com/-mm-/d3eb0a685bbaa86692742d3ac27972b19961d997/c=0-450-2364-1785&r=x633&c=1200x630/local/-/media/2016/01/13/USATODAY/USATODAY/635882793245659633-XXX-IMG-NETFLIX-MAKING-A-MUR-1-1-VGCTGMDU.JPG"></article>]]></description>
+            <link>http://www.usatoday.com/story/life/nation-now/2016/01/13/avery-files-motion-release-making-murderer/78732836/</link>
+            <guid isPermaLink="false">869cd028-dacb-4423-aecf-a16c8a397339</guid>
+            <pubDate>Mon, 18 Jan 2016 20:37:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is an example of a header1 tag.]]></title>
             <description><![CDATA[<article><h1>This is an example of a header1 tag.</h1><h2>Then I'm going to put some more text right here as an H2 tag.</h2><p>Paragraph text is next.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c5424244dee7fc64e3de595d9e0ef42c9435486.jpg"></article>]]></description>
