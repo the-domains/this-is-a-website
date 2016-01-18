@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T20:16:49.436Z'
+datePublished: '2016-01-18T20:16:49.424Z'
 dateModified: '2016-01-18T20:16:25.193Z'
 title: This is an example of a header1 tag.
 author: []
