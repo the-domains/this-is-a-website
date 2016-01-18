@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[This Is A Website]]></title>
         <description><![CDATA[This Is A Website]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/this-is-a-website/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 20:16:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 20:16:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/this-is-a-website/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[More posts of stuff using an H1 tag.]]></title>
+            <description><![CDATA[<article><h1>More posts of stuff using an H1 tag.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6687d5e61cea05ffa2e87ca275a8b2eeebb411b5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/this-is-a-website/more-posts-of-stuff-using-an-h1-tag/index.html</link>
+            <guid isPermaLink="false">caae2dfa-20a8-4e58-a611-a965bb47bf66</guid>
+            <pubDate>Mon, 18 Jan 2016 20:15:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A third post using an H3 tag.]]></title>
             <description><![CDATA[<article><h1>A third post using an H3 tag.</h1><p>here is a hyperlink</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bcc3e9dbac0023d1e859057a3a37aac88806e879.png"></article>]]></description>
-            <link>undefined5188e9df-be8f-4c7c-9942-e93f86c35b2d/index.html</link>
+            <link>https://thegrid.ai/this-is-a-website/5188e9df-be8f-4c7c-9942-e93f86c35b2d/index.html</link>
             <guid isPermaLink="false">5188e9df-be8f-4c7c-9942-e93f86c35b2d</guid>
             <pubDate>Mon, 18 Jan 2016 20:15:35 GMT</pubDate>
         </item>
